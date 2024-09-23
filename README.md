@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of the IS324: Modern Applications Development course at King Saud University. It involves developing a ticketing system for the KSU administration to manage campus stadium reservations for various sporting events and tournaments.
+This project involves developing a ticketing system for the KSU administration to manage campus stadium reservations for various sporting events and tournaments.
 
 
 
